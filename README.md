@@ -2,7 +2,7 @@
   <br>
 Shotout to the template I used: <a href="https://github.com/machadop1407/pedrotech-portfolio">machadrop1407</a>
   <br>
-  Currently sending an email through portfolio is no avaliable. All contact info I have in my profile.
+  Currently sending an email through portfolio is not avaliable. All contact info I have in my profile.
 </div>
 
 
