@@ -1,6 +1,8 @@
 <div align="center">A modern, responsive portfolio website built with React and Vite.
   <br>
 Shotout to the template I used: <a href="https://github.com/machadop1407/pedrotech-portfolio">machadrop1407</a>
+  <br>
+  Currently sending an email through portfolio is not avaliable. All contact info I have in my profile.
 </div>
 
 
@@ -25,3 +27,6 @@ Shotout to the template I used: <a href="https://github.com/machadop1407/pedrote
       <br>Tailwind CSS
   </tr>
 </table>
+
+## Contributing
+Contributions are welcome. Please open an issue or submit a pull request with improvements.
