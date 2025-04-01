@@ -49,7 +49,7 @@ export const Projects = () => {
                         </div>
 
                         <div className='flex justify-between items-center'>
-                            <a href="#" className='text-blue-400 hover:text-blue-300 transition-colors my-4 flex items-center space-x-2'>
+                            <a href="https://github.com/stkossman/sociopathic-unstable-vaccine" className='text-blue-400 hover:text-blue-300 transition-colors my-4 flex items-center space-x-2'>
                                 <span>View Project</span>
                                 <FaGithub />
                             </a>
